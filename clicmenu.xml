@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/urlclick"
+        android:showAsAction="always"
+        android:title="@string/iniciar">
+    <menu>
+            <item
+                android:id="@+id/abrirurl"
+                android:title="Abrir dirección web"/>          
+            <item
+                android:id="@+id/copiarurl"
+                android:title="Copiar  dirección web"/>
+        </menu>
+         </item>
+    <item
+        android:id="@+id/imageclick"
+        android:orderInCategory="11111"
+        android:showAsAction="always"
+        android:title="Seleccionada imagen">
+        <menu>
+            <item
+                android:id="@+id/abririmagen"
+                android:title="Abrir imagen"/>
+            <item
+                android:id="@+id/guardarimagen"
+                android:title="Guardar imagen"/>
+            <item
+                android:id="@+id/copiarimagen"
+                android:title="Cpiar dirección de la imagen"/>
+        </menu>
+    </item>
+
+</menu>

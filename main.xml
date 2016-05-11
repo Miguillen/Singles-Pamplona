@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/iniciar"
+        android:icon="@drawable/ic_action_menusesionno"
+        android:showAsAction="always"
+        android:title="@string/iniciar"/>
+    <item
+        android:id="@+id/overflow"
+        android:icon="@drawable/ic_action_overflow"
+        android:orderInCategory="11111"
+        android:showAsAction="always"
+        android:title="@string/paginas">
+        <menu>
+            <item
+                android:id="@+id/menu"
+                android:icon="@drawable/ic_action_action_home"
+                android:title="@string/menu"/>
+            <item
+                android:id="@+id/grupos"
+                android:icon="@drawable/ic_action_gruposmenu"
+                android:title="@string/grupos"/>
+            <item
+                android:id="@+id/actividades"
+                android:icon="@drawable/ic_action_actividadesmenu"
+                android:title="@string/act"/>
+            <item
+                android:id="@+id/eventos"
+                android:icon="@drawable/ic_action_eventosmenu"
+                android:title="@string/eventos"/>
+            <item
+                android:id="@+id/discusiones"
+                android:icon="@drawable/ic_action_discusionesmenu"
+                android:title="@string/discusiones"/>
+            <item
+                android:id="@+id/informacion"
+                android:icon="@drawable/ic_action_action_info_outline"
+                android:title="@string/informacion"/>
+            <item
+                android:id="@+id/compartir"
+                android:icon="@drawable/ic_action_social_share"
+                android:title="Compartir"/>
+            <item
+                android:id="@+id/whatsapp"
+                android:icon="@drawable/ic_action_whatsapp"
+                android:title="Compartir"/>
+            
+            <item
+                android:id="@+id/salir"
+                android:icon="@drawable/ic_action_salirmenu"
+                android:title="@string/salir"/>
+        </menu>
+    </item>
+
+</menu>
