@@ -1,0 +1,38 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="miestilo" parent="@android:style/Theme.Holo">       
+         <item name="android:listViewStyle">@style/listViewPrefs</item>
+    </style>
+    
+    
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
+    </style>
+
+
+	<style name="PrefsTheme" parent="@android:style/Theme.Black.NoTitleBar">
+    	<item name="android:windowBackground">@color/blue</item>
+    	<item name="android:textColor">@color/white</item>
+    	<item name="android:listViewStyle">@style/listViewPrefs</item>
+	</style>
+
+	<style name="listViewPrefs" parent="@android:style/Widget.ListView">
+    	<item name="android:background">@drawable/fondo</item>
+    	<item name="android:cacheColorHint">@color/black</item>
+	</style>
+	
+
+	<style name="styleName">
+		<item name="android:clickable">false</item>
+		<item name="android:focusable">false</item>
+		<item name="android:focusableInTouchMode">false</item>
+	</style>
+</resources>
+

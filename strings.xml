@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Singles Pamplona</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="grupos">Grupos</string>
+    <string name="opciones">Opciones</string>
+    <string name="iniciar">Iniciar sesión</string>
+    <string name="mipagina">Mi página</string>
+    <string name="info">Últimas actividades</string>
+    <string name="actividades">Actividades</string>
+    <string name="act">Actividades</string>
+    <string name="eventos">Eventos</string>
+    <string name="discusiones">Discusiones</string>
+    <string name="cerrar">Cerrar sesión</string>
+    <string name="salir">Salir</string>
+    <string name="chat">Chat</string>
+    <string name="menu">Menú</string>
+    <string name="informacion">Información</string>
+    <string name="usuarios">Usuarios</string>
+    <string name="discusion">Discusiones</string>
+    <string name="miembros">Miembros</string>
+    <string name="atras">Atrás</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="treinta">30 y tantos</string>
+    <string name="cuarenta">Cuarentañeros</string>
+    <string name="cuarentones">Cuarentones</string>
+    <string name="nuevos">Para los nuev@s de esta página</string>
+    <string name="amor">Se busca AMOR</string>
+    <string name="veinte">Grupo 20 y tantos</string>
+    <string name="rochapeanos">Rochapeanos</string>
+    <string name="viajeros">Viajeros</string>
+    <string name="tudela">Singles Tudela</string>
+    <string name="cincuenta">Amig@s 50añeros</string>
+    <string name="montanneros">CAMINATAS DE MONTAÑA, SENDERISMO Y TRAVESÍAS</string>
+    <string name="lastminute">LAST MINUTE</string>
+    <string name="fiestadelclan">Fiesta del Clan</string>
+    <string name="actividadesculturales">Actividades culturales</string>
+    <string name="actividadesalairelibre">Actividades al aire libre</string>
+    <string name="padres">Papás y mamás single con niños</string>
+    <string name="literatura">Literatura, arte y libros</string>
+    <string name="rockeros">Rockeros</string>
+    <string name="cocina">Grupo de cocina</string>
+    <string name="conciertos">CONCIERTOS</string>
+    <string name="paginas">Páginas</string>
+    <string name="nosesion">No has iniciado sesión en Singles Pamplona</string>
+    <string name="noconnection">La conexión a internet no se encuentra disponible en estos momentos</string>
+    <string name="ok">Aceptar</string>
+    <string name="error">Error</string>
+    <color name="blue">#0000FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="black">#000000</color>    
+    
+</resources>
+
